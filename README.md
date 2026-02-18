@@ -16,18 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm accelerate
 
-<a href="https://github.com/your-username">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/your-username">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 
@@ -35,7 +25,7 @@ Here are some ideas to get you started:
 - 🔭 Currently working on: **autonomous systems / drone / robotics projects**
 - 🌱 Learning: **ROS2, NVIDIA Jetson, PX4/APM development**
 - 💬 Ask me about: **ROS, C++, Python, Linux embedded systems**
-- 📫 Email: **your-email@example.com**
+- 📫 Email: **3062811267@qq.com**
 
 ---
 
@@ -85,46 +75,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/your-username/your-ros-project">
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-ros-project&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/your-username/your-drone-project">
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-drone-project&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-your--email%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" />
-</div>
 
 <p align="center">
   <i>🤝 Open to collaboration on robotics and autonomous systems projects!</i>
