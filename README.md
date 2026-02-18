@@ -65,13 +65,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-MAVLink-00C853?style=flat-square&logo=share&logoColor=white" />
 </div>
 
-### 🔧 Tools & Dev
-<div>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</div>
 
 ---
 
